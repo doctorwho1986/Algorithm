@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.github</groupId>
-	<artifactId>JdkLibraryPratice</artifactId>
+	<artifactId>Algorithm</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JdkLibraryPratice</name>
+	<name>Algorithm</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -15,7 +15,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>JdkLibraryPratice</finalName>
+		<finalName>Algorithm</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
