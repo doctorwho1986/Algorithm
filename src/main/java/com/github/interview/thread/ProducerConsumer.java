@@ -10,7 +10,6 @@ public class ProducerConsumer {
 		new Producer(store).start();
 		new Consumer(store).start();
 		new Consumer(store).start();
-
 	}
 
 }
